@@ -1,5 +1,5 @@
 // Create a dictionary of French Joke
-var dictionaryJoke = {
+const dictionaryJoke = {
   0: "No Joke",
   1: "Julien demande 10 euros à son père. \n -C\'est pour quoi faire? \n\-Pour donner à une vieille dame !",
   2: "\"Ecoute\", dit la maman à sa petite fille, \"si tu es sage, tu iras au ciel,et si tu n\’es pas sage, tu iras en enfer.\"\n\-\"Et qu\'est-ce que je dois faire pour aller au cirque ?\"",
